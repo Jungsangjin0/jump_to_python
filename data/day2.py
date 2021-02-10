@@ -45,9 +45,10 @@ print(a.index("t"))
 #print(a.index("k"))
 
 #문자열삽입
+print("이부분")
 print(",".join("abcd"))
 #리스트에 추가
-print(",".join(['a','b','c','d']))
+print(" ".join(['a','b','c','d']))
 
 #소문자를 대문자로 바꾸기(upper)
 a = "hi"
